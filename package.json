@@ -1,9 +1,9 @@
 {
   "name": "cerebro-caniuse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cerebro plugin for quick access to caniuse.com database",
   "license": "MIT",
-  "repository": "KELiON/cerebro-canise",
+  "repository": "KELiON/cerebro-caniuse",
   "author": {
     "name": "Alexandr Subbotin",
     "email": "kelionweb@gmail.com",
