@@ -1,5 +1,7 @@
 # cerebro-caniuse
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KELiON/cerebro-caniuse.svg)](https://greenkeeper.io/)
+
 > [Cerebro](http://www.cerebroapp.com) plugin for quick access to [caniuse.com](http://caniuse.com/) database
 
 ![](screenshot.png)
